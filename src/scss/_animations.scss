@@ -1,0 +1,15 @@
+@keyframes link-over {
+   100% {
+        opacity: 0;
+        transform: translateY(5px);
+   }
+}
+
+@keyframes underline {
+    0% {
+        background-position: 0em 1.1em
+    }
+    100% {
+        background-position: 4em 1.1em
+    }
+}
